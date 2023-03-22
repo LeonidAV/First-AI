@@ -14,6 +14,8 @@ pip install scikit-learn
 
 pip install pyttsx3
 
+pip install tk
+
 Не обязательно:
 
 pip install requests
